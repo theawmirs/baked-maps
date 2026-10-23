@@ -1,0 +1,3 @@
+Source: https://github.com/boltgolt/boltobserv
+Revision: 0320883198e438cd6ae9fd490fa310027003727e
+Images and calibration from src/maps. Per-map licenses preserved.
