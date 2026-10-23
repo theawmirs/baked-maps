@@ -30,31 +30,31 @@ release version.
 | `maps/de_overpass.occ` | 49521888 | `16ca78151b636ced9fcf3c92dc043fb3144685756c15aab0318b8b2380c892bf` |
 | `maps/de_vertigo.occ` | 7193448 | `5e23f80c4b99aec42f4f12f3f5036a318622f27511059035afd2e50bd718a738` |
 | `models/models.vmp` | 2806186 | `8cf81315976edbafeb8add5fd44a2c1729f999b9604c4c3c73a64b5344e926da` |
-| `radar/LICENSE` | 32495 | `def9bfa7ce94b0b39990fd6fc2493bd0eef9308e019caac51367cc5f8bde76d1` |
-| `radar/SOURCE.txt` | 167 | `02073d807a02c35bbbeed12a4b67ec94af337f999aaba4191b48e7f5411ef25d` |
-| `radar/de_ancient/LICENSE` | 1087 | `f882b7dd6095b3c2be4cadcfecb7fd6ef60e29a42e7b437e692f190999a70b02` |
-| `radar/de_ancient/meta.json5` | 1001 | `6676bbf90cd9fad49905f28317deab82072f7f9ba25f07162623f6ec34c32134` |
+| `radar/LICENSE` | 31876 | `5c22b13febc62005211e021304c6d1ff95167d534440a77d6de90f921f1f1f4d` |
+| `radar/SOURCE.txt` | 164 | `9f03c651c7b7b3178101ed8579338be52fd8b0b1654dcecc6c528eabc20e9d9c` |
+| `radar/de_ancient/LICENSE` | 1066 | `d05cb177a8de5a1b3903dbeef22e35c8da1f05fa4ba9f7e38d9d5f8f8eeaa86c` |
+| `radar/de_ancient/meta.json5` | 965 | `e5072830f3286304b91136eac990234554f887907a70abeebb11502a30df0cb9` |
 | `radar/de_ancient/radar.png` | 200140 | `34381b0349a145a75cf779ed8313425cd5602693a015b600d3d9b9bd2f0e6fe9` |
-| `radar/de_anubis/LICENSE` | 1087 | `f882b7dd6095b3c2be4cadcfecb7fd6ef60e29a42e7b437e692f190999a70b02` |
-| `radar/de_anubis/meta.json5` | 692 | `396bb19a2aa5524a7dacf6c90d1aa9a4483e04f90c554bf69df5438291477a7f` |
+| `radar/de_anubis/LICENSE` | 1066 | `d05cb177a8de5a1b3903dbeef22e35c8da1f05fa4ba9f7e38d9d5f8f8eeaa86c` |
+| `radar/de_anubis/meta.json5` | 660 | `c11bde50ae2df1aeb55e270720239f41326881afc9e45fd2831d8291fb215fb5` |
 | `radar/de_anubis/radar.png` | 361480 | `a117c55fcd6690c74210125c2f409a32b9348c931213b388cf3ab5ed0c3d47ae` |
-| `radar/de_cache/meta.json5` | 579 | `aa9ffa791234bbe9996b54666f78539fc6148d4b6879f76aa7a6cf274fbdece4` |
+| `radar/de_cache/meta.json5` | 553 | `ae33048c4229ff443a19cdaa3c0f38aa77c6ec699ecde3507d6dd86d2d95a7b8` |
 | `radar/de_cache/radar.png` | 132550 | `2f2e26043469a962a141e2f23b649c8750a71d02d3f4a7ab6a703e4046b27d2d` |
-| `radar/de_dust2/meta.json5` | 1004 | `a164093559947d0892427c7e10ff7f20f16cc6ead0dcef91f0176fc4529fa25b` |
+| `radar/de_dust2/meta.json5` | 968 | `a4a6d5819d9951488c47f56e2cccc0ca90df3759450ec228cb2ebd1c62dcc3c5` |
 | `radar/de_dust2/radar.png` | 183510 | `058db75547a934f35da928c20048edaa51152fd1028eba42a310bb4d6144f977` |
-| `radar/de_inferno/meta.json5` | 1001 | `e2e09d66dfcfed245bcdf275df79907c79c72c862875eb2c96552bcd8645187e` |
+| `radar/de_inferno/meta.json5` | 965 | `21d47414a0cd718681807e3105fa9371db0b5782ec8a140a3e89294610e73872` |
 | `radar/de_inferno/radar.png` | 173365 | `ebbb73cf9a73b80e699d7765476c7bb490ba2524189ead14db6ed2a1a0bacc99` |
-| `radar/de_mirage/meta.json5` | 1004 | `0ec66216e5e836b3f81cb966116b881ac0398cd8cc28753c6c9bf65f54b609f2` |
+| `radar/de_mirage/meta.json5` | 968 | `36626324efc6e633ed957481615f1ab38ac0020055430ce6e56f766191c2cc4e` |
 | `radar/de_mirage/radar.png` | 119422 | `13daee22f5807f0e3672bc42b606bfd273ef913dc01f5720b2215e6a2239063e` |
-| `radar/de_nuke/meta.json5` | 1609 | `098bea6d78946fdaf60cc3d6a529c11db0c1c66e77fa637de44151a0664cffcd` |
+| `radar/de_nuke/meta.json5` | 1550 | `32dc87a300f343b7c555167674f00571b1602c37d37e739c12c84b6487a30941` |
 | `radar/de_nuke/radar.png` | 116890 | `8e9651be759665480a91b35de036e57e7feeb6e8537f6c4fb95c3f953925f4b8` |
-| `radar/de_overpass/meta.json5` | 1001 | `992cb48fdf516ec87f34bd8c43cbce61fea08d50efc971f05295d5b63fa925e8` |
+| `radar/de_overpass/meta.json5` | 965 | `0367728ce03b604735f64289ff50bc7f8da24627e4bcdbec12012fdb003267c2` |
 | `radar/de_overpass/radar.png` | 308854 | `b5d0f31e8d2258e342952a3412a225654a2be4ef9d261adca8dd78a657509177` |
-| `radar/de_train/meta.json5` | 1002 | `964dcbc3f28c5cf4d633d3107a4b9ae16cba54e0692f8036ecf663992fc1bf67` |
+| `radar/de_train/meta.json5` | 966 | `6c242698e8f29589260c71efc7770146f33b287f07ccd87fccf24950818e3b73` |
 | `radar/de_train/radar.png` | 256114 | `bbfd1d10931df7cc2f76ab676c6b0a7de4bd5f63f60efbc16c93ffba2eb3473d` |
-| `radar/de_vertigo/meta.json5` | 1081 | `4110cefbe74fa9afb3169c319aa165d002f5ef7e5692f6e69f72ba2f36ce882a` |
+| `radar/de_vertigo/meta.json5` | 1030 | `8e44a65dfc388a53eb8c3efb89d134249f50ae6dc31de0af15e095c439d96cad` |
 | `radar/de_vertigo/radar.png` | 88838 | `1e713246692d74b22d8720cf2c0dfb99fac2e559d73d8a3b59a380d77362ce51` |
 | `sounds/cod.wav` | 11786 | `c33bf37e7bd2418c20ec5ec98c6b02c6d2f297556018a97fa46a089501106f84` |
 | `sounds/skeet.wav` | 41606 | `73d76055b4d0d52f601f9eba929b4ddcd5f60edb41384acaa1e0afb4963b1698` |
 
-41 files, 344,034,487 bytes.
+41 files, 344,033,439 bytes.
